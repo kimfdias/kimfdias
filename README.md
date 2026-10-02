@@ -72,11 +72,9 @@
 
 <img width="450" src="https://streak-stats.demolab.com/?user=kimfdias&theme=radical&hide_border=true&card_width=450" />
 
-<br/>
+<br/> <br/>
 
-<img src="https://raw.githubusercontent.com/kimfdias/kimfdias/output/github-snake-pink.svg" alt="Cobrinha comendo os commits" width="100%" />
 
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimberly-fernandes-dias/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimberlyfdias@gmail.com)
