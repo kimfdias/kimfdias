@@ -58,24 +58,21 @@
 | 🌟 **Intermediário** | Python, Power Query, APIs (integração e consumo), Excel Avançado |
 | 📚 **Conhecimentos** | ERP Sankhya, ETL, modelagem de dados, otimização de consultas, Git, metodologias ágeis |
 
-🌸 ･ﾟ✧ 🌸 ･ﾟ✧ 🌸 ･ﾟ✧ 🌸
+<br/>
 
 <h2 align="center">📈 Estatísticas do GitHub</h2>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kimfdias&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimfdias&layout=compact&theme=radical&hide_border=true" />
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=kimfdias&show_icons=true&theme=radical&hide_border=true&card_width=450" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=kimfdias&theme=radical&hide_border=true" />
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimfdias&layout=compact&theme=radical&hide_border=true&card_width=450" />
 
-🌸 ･ﾟ✧ 🌸 ･ﾟ✧ 🌸 ･ﾟ✧ 🌸
+<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+<img width="450" src="https://streak-stats.demolab.com/?user=kimfdias&theme=radical&hide_border=true&card_width=450" />
 
-🌸 ･ﾟ✧ 🌸 ･ﾟ✧ 🌸 ･ﾟ✧ 🌸
-
-<h2 align="center">📫 Vamos conversar!</h2>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimberly-fernandes-dias/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimberlyfdias@gmail.com)
