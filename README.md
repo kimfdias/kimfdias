@@ -79,6 +79,9 @@
 
 <br/>
 
+
+
+https://spotify-github-profile.kimfdias.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&border_radius=15&bar_color=53b14f
 *Obrigada por passar por aqui!* 🩷
 
 <img width="480" height="320" alt="HalloweenLoveGIF" src="https://github.com/user-attachments/assets/a88ac730-e57b-4348-9970-b75fa17d295b" />
