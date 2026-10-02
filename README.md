@@ -8,8 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kimfdias&label=Visitas+ao+perfil&color=0A66C2&style=for-the-badge" alt="Contador de visitas" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -119,7 +117,7 @@ Monitoramento e otimização de desempenho de bancos de dados, identificando mel
 
 * Obrigada por passar por aqui! 🩷*
 
-  <img width="480" height="480" alt="KissesLoveGIF" src="https://github.com/user-attachments/assets/2f87c06a-e4ec-4bce-ba36-f74c46c647f5" />
+
   <img width="480" height="320" alt="HalloweenLoveGIF" src="https://github.com/user-attachments/assets/a88ac730-e57b-4348-9970-b75fa17d295b" />
 
 
