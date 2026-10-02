@@ -72,6 +72,10 @@
 
 <img width="450" src="https://streak-stats.demolab.com/?user=kimfdias&theme=radical&hide_border=true&card_width=450" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/kimfdias/kimfdias/output/github-snake-pink.svg" alt="Cobrinha comendo os commits" width="100%" />
+
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimberly-fernandes-dias/)
@@ -79,9 +83,6 @@
 
 <br/>
 
-
-
-https://spotify-github-profile.kimfdias.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&border_radius=15&bar_color=53b14f
 *Obrigada por passar por aqui!* 🩷
 
 <img width="480" height="320" alt="HalloweenLoveGIF" src="https://github.com/user-attachments/assets/a88ac730-e57b-4348-9970-b75fa17d295b" />
